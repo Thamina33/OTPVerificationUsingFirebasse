@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "862849420037",
+    "firebase_url": "https://otp-verification-35a31.firebaseio.com",
+    "project_id": "otp-verification-35a31",
+    "storage_bucket": "otp-verification-35a31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862849420037:android:2da61f57f624a12d5e856c",
+        "android_client_info": {
+          "package_name": "com.example.otpverificationusingfirebasse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862849420037-c3n7phoct5acjrd667p96f7lci2e1mpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD24S0MVZZr1Qyl2ykRn_ncgtl1BTBIVhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862849420037-c3n7phoct5acjrd667p96f7lci2e1mpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
